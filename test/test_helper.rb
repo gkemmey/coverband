@@ -12,6 +12,7 @@ require "mocha/minitest"
 require "ostruct"
 require "json"
 require "redis"
+require "dalli"
 require "resque"
 
 require "coverband"
